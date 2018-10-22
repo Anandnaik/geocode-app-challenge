@@ -1,0 +1,37 @@
+{
+  "name": "geocode-app-challenge",
+  "version": "1.0.0",
+  "description": "Challenge application which gets longitude/latitude codes (geocode) for a selected address which has a \"ROOFTOP\".",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d dist",
+    "start": "npm run build && node dist/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anandnaik/geocode-app-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anandnaik/geocode-app-challenge/issues"
+  },
+  "homepage": "https://github.com/Anandnaik/geocode-app-challenge#readme",
+  "dependencies": {
+    "@google/maps": "^0.5.5",
+    "body-parser": "^1.18.3",
+    "byline": "^5.0.0",
+    "express": "^4.16.4",
+    "geocoder-geojson": "^1.11.0",
+    "is-it-object": "^2.1.5",
+    "mongoose": "^5.3.4",
+    "node-geocoder": "^3.22.0",
+    "rimraf": "^2.6.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}

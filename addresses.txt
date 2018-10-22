@@ -1,0 +1,432 @@
+346                             SUMMER                                  LN                    MAPLEWOOD                     MN55117       
+344                             SUMMER                                  LN                    SAINT PAUL                    MN55117       
+21                              CHARLES                                 AVE   #         10    SAINT PAUL                    MN55103       
+25                              CHARLES                                 AVE                   SAINT PAUL                    MN55103       
+761                             CAPITOL                                 HTS   #         25    SAINT PAUL                    MN55103       
+784                             CEDAR                                   ST    #         7     SAINT PAUL                    MN55103       
+895                             EVERGREEN                               CT                    SAINT PAUL                    MN55127       
+885                             EVERGREEN                               CT                    SAINT PAUL                    MN55127       
+729                             UNIVERSITY                              RD                    CLEVELAND                     OH44113       
+27364                           TILLERMAN                               CT                    OLMSTED TWP                   OH44138       
+8716                            BRECKENRIDGE                            OVAL                  BROADVIEW HEIGHTS             OH44147       
+27360                           TILLERMAN                               CT                    OLMSTED TWP                   OH44138       
+348                             LEXINGTON                               CIR                   BROADVIEW HEIGHTS             OH44147       
+5754                          W MILL                                    RD                    BROADVIEW HEIGHTS             OH44147       
+2660                            WOOSTER                                 RD    #         2660  ROCKY RIVER                   OH44116       
+738                           SE56TH                                    AVE                   HILLSBORO                     OR97123       
+22137                         SWARCHERS                                 PL                    SHERWOOD                      OR97140       
+7200                          SWMANOR                                   WAY                   ALOHA                         OR97007       
+767                             CAPITOL                                 HTS   #         22    SAINT PAUL                    MN55103       
+722                             MONTICELLO PLACE                        LN                    CLEVELAND                     OH44143       
+29456                           HUMMINGBIRD                             CIR   #         72    WESTLAKE                      OH44145       
+8757                            BRECKENRIDGE                            OVAL                  BROADVIEW HEIGHTS             OH44147       
+                                SHARON                                  RD                    BRIDGEPORT                    OH43912       
+                                MORGAN HILL                             RD                    ADENA                         OH43901       
+73035                           GRAYS RIDGE                             RD                    SAINT CLAIRSVILLE             OH43950       
+                                HALL                                    ST                    SAINT CLAIRSVILLE             OH43950       
+                                HALL                                    ST                    SAINT CLAIRSVILLE             OH43950       
+72330                           FLUSHING HOLLOWAY                       RD    #         R     FLUSHING                      OH43977       
+38900                           BELMONT RIDGE                           RD                    FLUSHING                      OH43977       
+                                WORLEY SOUTH                            RD                                                  OH00000       
+183                             TWP                                                                                         OH00000       
+41305                           HELEN GREGG                             RD                    BETHESDA                      OH43719       
+                                REPIK                                   RD                    BETHESDA                      OH43719       
+39871                           EVERETT TURNER DORY M                   RD                    BETHESDA                      OH43719       
+203                             TWP                                                           BETHESDA                      OH43719       
+                                COUNTY ROAD 26                                                BETHESDA                      OH43719       
+64400                           OLD TWENTYSIX                           RD                    BETHESDA                      OH43719       
+                                                                                                                            OH00000       
+                                STATE ROAD 149                                                BELMONT                       OH00000       
+                              N HIGH                                    ST                    BETHESDA                      OH43719       
+483                             RESERVOIR                               DR                    BETHESDA                      OH43719       
+35970                           MUSKRAT                                 RD                    BARNESVILLE                   OH43713       
+                              W PIPE CREEK                              RD                    JACOBSBURG                    OH43933       
+                              W PIPE CREEK                              RD                    JACOBSBURG                    OH43933       
+60545                         W PIPE CREEK                              RD                    JACOBSBURG                    OH43933       
+                                                                                                                            OH00000       
+                                                                                                                            OH00000       
+61615                           HAWTHORNE HILL                          RD                    SHADYSIDE                     OH43947       
+61816                           HAWTHORNE HILL                          RD                    SHADYSIDE                     OH43947       
+61780                           COUNTY ROAD 4                                                                               OH43947       
+61585                           HAWTHORNE HILL                          RD                    SHADYSIDE                     OH43947       
+60940                           HAWTHORNE HILL                          RD                    SHADYSIDE                     OH43947       
+289                             TWP                                                                                         OH00000       
+51999                           WEGEE                                   RD                    BELLAIRE                      OH43906       
+52007                           WEGEE                                   RD                    JACOBSBURG                    OH43933       
+54779                           WEGEE                                   RD                    SHADYSIDE                     OH43947       
+                                BROWN                                   RD                    JACOBSBURG                    OH43933       
+58800                           HORSE MILL HILL                         RD                    SHADYSIDE                     OH43947       
+                                LOCKWOOD RUN                            RD                    BELLAIRE                      OH43906       
+                                CENTRAL                                 AVE                   SHADYSIDE                     OH43947       
+                                MADISON                                 AVE                   SHADYSIDE                     OH43947       
+                              W 47TH                                    ST                    SHADYSIDE                     OH43947       
+252                           E 39TH                                    ST                    SHADYSIDE                     OH43947       
+                                JACQUETTE                               ST                    BRIDGEPORT                    OH43912       
+                              W VICTORY                                 RD                    MARTINS FERRY                 OH43935       
+                                VICTORY                                 ST                    MARTINS FERRY                 OH43935       
+                                SEABRIGHTS                              LN                    MARTINS FERRY                 OH43935       
+                                NORTH                                   ST                    MARTINS FERRY                 OH43935       
+                              N 5TH                                     ST                    MARTINS FERRY                 OH43935       
+205                           S 7TH                                     ST                    MARTINS FERRY                 OH43935       
+                              S 7TH                                     ST                    MARTINS FERRY                 OH43935       
+1021                            COLERAIN                                PIKE                  MARTINS FERRY                 OH43935       
+5                             W VICTORY                                 RD                    MARTINS FERRY                 OH43935       
+                                                                                                                            OH00000       
+                                                                                                                            OH00000       
+                                                                                                                            OH00000       
+                                                                                                                            OH00000       
+                                                                                                                            OH00000       
+                                NEW CUT                                 RD                    SHADYSIDE                     OH43947       
+                                COUNTY ROAD 46                                                                              OH00000       
+                                HOSPITAL                                RD                    BELLAIRE                      OH43906       
+                                HOSPITAL                                RD                    BELLAIRE                      OH43906       
+                                HOSPITAL                                RD                    BELLAIRE                      OH43906       
+                                PIKE                                    ST                    NEFFS                         OH43940       
+                                CENTRAL                                 AVE                   SHADYSIDE                     OH43947       
+4252                            PINE                                    ALY                   BELLAIRE                      OH43906       
+1                               2 GUERNSEY                              ST                    BELLAIRE                      OH43906       
+                                                                                                                            OH00000       
+70254                           PROVIDENT FAIRPOINT                     RD                    SAINT CLAIRSVILLE             OH43950       
+67500                           CLARK                                   RD                    SAINT CLAIRSVILLE             OH43950       
+69838                           JUG RUN                                 RD                    SAINT CLAIRSVILLE             OH43950       
+66847                           POGUE                                   RD                    SAINT CLAIRSVILLE             OH43950       
+                                BARTON                                  RD                    ST CLAIRSVILLE                OH43950       
+                                EVENSONG                                RD                    SAINT CLAIRSVILLE             OH43950       
+                                EVENSONG                                RD                    SAINT CLAIRSVILLE             OH43950       
+67540                           EVENSONG                                RD                    SAINT CLAIRSVILLE             OH43950       
+67520                           EVENSONG                                RD                    SAINT CLAIRSVILLE             OH43950       
+                                EVENSONG                                RD                    SAINT CLAIRSVILLE             OH43950       
+67500                           EVENSONG                                RD                    SAINT CLAIRSVILLE             OH43950       
+                                EVENSONG                                RD                    SAINT CLAIRSVILLE             OH43950       
+                                EVENSONG                                                      SAINT CLAIRSVILLE             OH43950       
+49600                           METHODIST RIDGE                         RD                    SAINT CLAIRSVILLE             OH43950       
+66820                           WILLOW GROVE                            RD                    SAINT CLAIRSVILLE             OH43950       
+68800                           HAMMOND                                 RD                    SAINT CLAIRSVILLE             OH43950       
+69349                           LEE                                     RD                    SAINT CLAIRSVILLE             OH43950       
+69245                           CARDINAL                                DR                    SAINT CLAIRSVILLE             OH43950       
+                                CARDINAL                                DR                    ST CLAIRSVILLE                OH43950       
+                                SINGER                                  RD                                                  OH43950       
+45585                           SINGER                                  RD                    SAINT CLAIRSVILLE             OH43950       
+                                WREN                                    DR                    ST CLAIRSVILLE                OH43950       
+45850                           WREN                                    DR                    SAINT CLAIRSVILLE             OH43950       
+69175                           WREN                                    DR                    SAINT CLAIRSVILLE             OH43950       
+                                BLUEBIRD                                DR                    ST CLAIRSVILLE                OH43950       
+69210                           BLUEBIRD                                DR                    SAINT CLAIRSVILLE             OH43950       
+69250                           BLUEBIRD                                DR                    SAINT CLAIRSVILLE             OH43950       
+69251                           BLUEBIRD                                DR                    SAINT CLAIRSVILLE             OH43950       
+69231                           BLUEBIRD                                DR                    SAINT CLAIRSVILLE             OH43950       
+                                BLUEBIRD                                DR                    ST CLAIRSVILLE                OH43950       
+69200                           CARDINAL                                DR                    SAINT CLAIRSVILLE             OH43950       
+69220                           CARDINAL                                DR                    SAINT CLAIRSVILLE             OH43950       
+69240                           CARDINAL                                DR                    SAINT CLAIRSVILLE             OH43950       
+69260                           CARDINAL                                DR                    SAINT CLAIRSVILLE             OH43950       
+45851                           WREN                                    DR                    SAINT CLAIRSVILLE             OH43950       
+                                SINGER                                  RD                                                  OH43950       
+                                SINGER                                  RD                                                  OH43950       
+                                SINGER                                  RD                                                  OH43950       
+                                CRESCENT                                RD                    ST CLAIRSVILLE                OH43950       
+                                CRESCENT                                RD                    SAINT CLAIRSVILLE             OH43950       
+                                CRESCENT                                RD                    ST CLAIRSVILLE                OH43950       
+67396                           NATURES                                 WAY                   SAINT CLAIRSVILLE             OH43950       
+67398                           NATURES                                 WAY                   SAINT CLAIRSVILLE             OH43950       
+64780                           GARRETT HILL                            RD                    SAINT CLAIRSVILLE             OH43950       
+                                MORIAH                                  DR                    ST CLAIRSVILLE                OH43950       
+                                MORIAH                                  DR                    ST CLAIRSVILLE                OH43950       
+                                MORIAH                                  DR                    ST CLAIRSVILLE                OH43950       
+                                MORIAH                                  DR                    SAINT CLAIRSVILLE             OH43950       
+                                MORIAH                                  DR                    ST CLAIRSVILLE                OH43950       
+                                JOELLA                                  DR                    SAINT CLAIRSVILLE             OH43950       
+44655                           SPRINGBROOK                             DR                    SAINT CLAIRSVILLE             OH43950       
+44651                           SPRINGBROOK                             DR                    SAINT CLAIRSVILLE             OH43950       
+44650                           SPRINGBROOK                             DR                    SAINT CLAIRSVILLE             OH43950       
+                                SPRINGBROOK                             DR                    ST CLAIRSVILLE                OH43950       
+                                SPRINGBROOK                             DR                    ST CLAIRSVILLE                OH43950       
+                                HENDERSON                               RD                    ST CLAIRSVILLE                OH43950       
+50500                           WALNUT                                  AVE                   SAINT CLAIRSVILLE             OH43950       
+50711                           REHM                                    RD                    SAINT CLAIRSVILLE             OH43950       
+                                JOELLA                                  CIR                   SAINT CLAIRSVILLE             OH43950       
+                                JOELLA                                  CIR                   SAINT CLAIRSVILLE             OH43950       
+                                JOELLA                                  DR                    SAINT CLAIRSVILLE             OH43950       
+                                JOELLA                                  DR                    SAINT CLAIRSVILLE             OH43950       
+                                COUNTRYSIDE                             DR                    ST CLAIRSVILLE                OH43950       
+                                COUNTRYSIDE                             DR                    ST CLAIRSVILLE                OH43950       
+67110                           COUNTRYSIDE                             DR                    SAINT CLAIRSVILLE             OH43950       
+65740                           GARRETT HILL                            RD                    SAINT CLAIRSVILLE             OH43950       
+                                NATIONAL                                RD                    SAINT CLAIRSVILLE             OH43950       
+48160                           NATIONAL                                RD  W                 SAINT CLAIRSVILLE             OH43950       
+                                                                                                                            OH00000       
+                                                                                                                            OH00000       
+                                                                                                                            OH00000       
+                                                                                                                            OH00000       
+61690                           GROVES                                  RD                    BELMONT                       OH43718       
+45450                           HART                                    RD                    BELMONT                       OH43718       
+                                CHESTNUT LEVEL                          RD                    BELMONT                       OH43718       
+111                             TWP                                                                                         OH00000       
+111                             TWP                                                                                         OH00000       
+117                             TWP                                                                                         OH00000       
+194                             T                                                             BELMONT                       OH43718       
+61621                           CLEGG                                   RD                    JACOBSBURG                    OH43933       
+                                BOSTON                                  RD                    BARNESVILLE                   OH43713       
+                                BOSTON                                  RD                    BARNESVILLE                   OH43713       
+54736                           BOSTON                                  RD                    BARNESVILLE                   OH43713       
+2                               TWP                                     RD                                                  OH00000       
+                                BEAVER                                  RD                    BARNESVILLE                   OH43713       
+                                BEAVER                                  RD                    BARNESVILLE                   OH43713       
+                                BEAVER                                  RD                    BARNESVILLE                   OH43713       
+57951                           OAKES                                   PL                    BARNESVILLE                   OH43713       
+57908                           SOMERTON                                HWY                   BARNESVILLE                   OH43713       
+                                MURPHY                                  RD                    FLUSHING                      OH43977       
+812                             TWP                                                                                         OH00000       
+67681                           MORRISTOWN FLUSHING                     RD                    BELMONT                       OH43718       
+                                MT HOPE                                 RD                    LAFFERTY                      OH43951       
+65543                           BELMONT MORRISTOWN                      RD                    BELMONT                       OH43718       
+                                TRAIL END                               DR                                                  OH43718       
+                                TRAIL END                               RD                    BELMONT                       OH43718       
+67200                           TRAILS END                              DR                    BELMONT                       OH43718       
+67199                           TRAILS END                              DR                    BELMONT                       OH43718       
+67174                           PANCOAST                                RD  S                 BELMONT                       OH43718       
+                                TRAIL END                               DR                                                  OH43718       
+67146                           PANCOAST                                RD  S                 BELMONT                       OH43718       
+                                TRAIL END                               DR                                                  OH43718       
+67042                           PANCOAST                                RD  S                 BELMONT                       OH43718       
+67140                           TRAILS END                              DR                    BELMONT                       OH43718       
+                                TRAIL END                               DR                                                  OH43718       
+42295                           NATIONAL                                RD                    BELMONT                       OH43718       
+42495                           FRONTIER                                DR                    BELMONT                       OH43718       
+                                FRONTIER                                DR                    BELMONT                       OH43718       
+41100                           RENE                                    DR                    BELMONT                       OH43718       
+68125                           JENNY LYNN                              DR                    BELMONT                       OH43718       
+68140                           JENNY LYNN                              DR                    BELMONT                       OH43718       
+                                JENNY LYNN                              DR                    BELMONT                       OH43718       
+                                JENNY LYNN                              DR                    BELMONT                       OH43718       
+                                JENNY LYNN                              DR                    BELMONT                       OH43718       
+68195                           JENNY LYNN                              DR                    BELMONT                       OH43718       
+                                RENE                                    DR                    BELMONT                       OH43718       
+                                STATE ROAD 149                                                                              OH00000       
+                                RENE                                    DR                    BELMONT                       OH43718       
+                                JENNY LYNN                              DR                    BELMONT                       OH43718       
+68180                           JENNY LYNN                              DR                    BELMONT                       OH43718       
+67623                           PANCOAST                                RD  N                 BELMONT                       OH43718       
+                                PANCOAST                                RD                                                  OH00000       
+                                HILLCREST                               RD                    BARNESVILLE                   OH43713       
+                                BIRCH                                   DR                    BARNESVILLE                   OH43713       
+                                HILLCREST                               RD                    BARNESVILLE                   OH43713       
+62120                           WOODLAND                                DR                    BARNESVILLE                   OH43713       
+60928                           WARNER                                  DR                    BARNESVILLE                   OH43713       
+61105                           PIGEON POINT                            RD                    BARNESVILLE                   OH43713       
+36445                           FAIRVIEW                                ST                    BARNESVILLE                   OH43713       
+37249                           HARRYS RIDGE                            RD                    BARNESVILLE                   OH43713       
+37401                           HARRYS RIDGE                            RD                    BARNESVILLE                   OH43713       
+                                HARRY S RIDGE                           RD                                                  OH43713       
+63707                           MOUNT OLIVETT                           RD                    BARNESVILLE                   OH43713       
+63640                           MOUNT OLIVETT                           RD                    BARNESVILLE                   OH43713       
+                                MT OLIVETT                              RD                    BARNESVILLE                   OH43713       
+                                HARRY S RIDGE                           RD                                                  OH43713       
+63745                           MOUNT OLIVETT                           RD                    BARNESVILLE                   OH43713       
+                                MT OLIVETT                              RD                    BARNESVILLE                   OH43713       
+                                MT OLIVETT                              RD                    BARNESVILLE                   OH43713       
+                                PENNY                                   LN                    BARNESVILLE                   OH43713       
+                                MAIN                                    ST                    BARNESVILLE                   OH43713       
+158                             GRACE                                   AVE                   BARNESVILLE                   OH43713       
+                                WILEY                                   AVE                                                 OH43713       
+                                LOCUST                                  DR                    BARNESVILLE                   OH43713       
+503                             PARK                                    ST                    BARNESVILLE                   OH43713       
+                                R WATT                                  ST                    BARNESVILLE                   OH43713       
+                              S R 9                                                           BELMONT                       OH43718       
+104                             TWP                                                                                         OH00000       
+54890                           PUGH RIDGE                              RD                    ALLEDONIA                     OH43902       
+                                OGLIBEE                                 RD                                                  OH00000       
+86                              TWP                                                                                         OH00000       
+                                OGILBEE                                 RD                    JACOBSBURG                    OH43933       
+                                OGILBEE                                 RD                    JACOBSBURG                    OH43933       
+                                PLEASANT RIDGE                          RD                    BELMONT                       OH43718       
+                                PLEASANT RIDGE                          RD                    BELMONT                       OH43718       
+                                PLEASANT RIDGE                          RD                    BELMONT                       OH43718       
+101                             TWP                                                                                         OH00000       
+101                             TWP                                                                                         OH00000       
+59000                           COOL HILL                               RD                    BELMONT                       OH43718       
+111                             TWP                                                                                         OH00000       
+                                                                                                                            OH00000       
+                                                                                                                            OH00000       
+234                             TWP                                     RD                                                  OH00000       
+                                BEND FORK                               RD                    BELMONT                       OH43718       
+                                TWP 101                                                                                     OH00000       
+                                SAFFELL CHURCH                          RD                    ALLEDONIA                     OH43902       
+54280                           NEW CASTLE-BEALLSVILLE                  RD                                                  OH43716       
+                                                                                                                            OH00000       
+53337                           BELMONT RIDGE                           RD                    BEALLSVILLE                   OH43716       
+                                BELMONT RIDGE                           RD                    BEALLSVILLE                   OH43716       
+70                              TWP                                     RD                                                  OH00000       
+70                              TWP                                     RD                                                  OH00000       
+70                              TWP                                     RD                                                  OH00000       
+57101                           TWP                                     RD              70                                  OH00000       
+70                              TWP                                     RD                                                  OH00000       
+43699                           SHRADER                                 RD                                                  OH43718       
+                                PLEASANT RIDGE                          RD                    ALLEDONIA                     OH43902       
+                                PLEASANT RIDGE                          RD                    ALLEDONIA                     OH43902       
+                                PLEASANT RIDGE                          RD                    ALLEDONIA                     OH43902       
+                                WHITE                                   RD                    ALLEDONIA                     OH43902       
+                                OLD STATE ROUTE 148                                                                         OH00000       
+                                HUNTER NEW CASTLE                       RD                    ALLEDONIA                     OH43902       
+                                PLEASANT RIDGE                          RD                    ALLEDONIA                     OH43902       
+                                HUNTER NEW CASTLE                       RD                    ALLEDONIA                     OH43902       
+                                HUNTER NEW CASTLE                       RD                                                  OH00000       
+                                WHITE                                   RD                    BELMONT                       OH43718       
+                                WHITE                                   RD                    BELMONT                       OH43718       
+                                WHITE                                   RD                    BELMONT                       OH43718       
+                                WHITE                                   RD                    BELMONT                       OH43718       
+                                WHITE                                   RD                    BELMONT                       OH43718       
+58101                           WHITE                                   RD                    BELMONT                       OH43718       
+58101                           WHITE                                   RD                    BELMONT                       OH43718       
+                                HUNTER NEW CASTLE                       RD                                                  OH00000       
+                                FAIRPOINT MAYNARD                       RD                    SAINT CLAIRSVILLE             OH43950       
+                                FAIRPOINT NEW ATHENS                    RD                    ST CLAIRSVILLE                OH43950       
+T406                            BRIGHT                                  RD                    MAYNARD                       OH43937       
+                                BANNOCK UNIONTOWN                       RD                    SAINT CLAIRSVILLE             OH43950       
+                                DONNERVILLE                             RD                                                  OH00000       
+                                SHEPHERDSTOWN                           RD                    ST CLAIRSVILLE                OH43950       
+46125                           SHEPHERDSTOWN                           RD                    SAINT CLAIRSVILLE             OH43950       
+72585                           SLOANS RUN                              RD                    SAINT CLAIRSVILLE             OH43950       
+73460                           DUNN                                    RD                    SAINT CLAIRSVILLE             OH43950       
+423                             TWP                                                                                         OH00000       
+                                DUNN                                    RD                    SAINT CLAIRSVILLE             OH43950       
+                                DUNN                                    RD                    SAINT CLAIRSVILLE             OH43950       
+                                DANIEL DRIVE                            EXT                                                 OH00000       
+                                JAMES MERRITT                           LN                    ST CLAIRSVILLE                OH43950       
+71370                           JAMES MERRITT                           DR                    SAINT CLAIRSVILLE             OH43950       
+                                JAMES MERRITT                           DR                    ST CLAIRSVILLE                OH43950       
+44365                           DANIEL                                  DR                    SAINT CLAIRSVILLE             OH43950       
+44394                           DANIEL                                  DR                    SAINT CLAIRSVILLE             OH43950       
+44651                           DANIEL                                  DR                    SAINT CLAIRSVILLE             OH43950       
+71350                           JAMES MERRITT                           DR                    SAINT CLAIRSVILLE             OH43950       
+73402                           FAIRPOINT SHEPHERDSTOWN                 RD                    SAINT CLAIRSVILLE             OH43950       
+44910                           LAFFERTY                                RD                    SAINT CLAIRSVILLE             OH43950       
+                                SHEPHERDSTOWN                           RD                                                  OH00000       
+                                SHEPHERDSTOWN                           RD                                                  OH00000       
+73785                           FAIRPOINT SHEPHERDSTOWN                 RD                    SAINT CLAIRSVILLE             OH43950       
+46900                           SHEPHERDSTOWN                           RD                    SAINT CLAIRSVILLE             OH43950       
+                                BANNOCK UNIONTOWN                       RD                    ST CLAIRSVILLE                OH43950       
+72380                           BLAIR                                   RD                    FLUSHING                      OH43977       
+                                BLAIR                                   RD                    FLUSHING                      OH43977       
+                                LAFFERTY                                RD                    LAFFERTY                      OH43951       
+                                LAFFERTY                                RD                    LAFFERTY                      OH43951       
+                                LAFFERTY                                RD                    LAFFERTY                      OH43951       
+                                LAFFERTY                                RD                    LAFFERTY                      OH43951       
+70606                           GAS STATION SHIPPEY                     RD                    SAINT CLAIRSVILLE             OH43950       
+73280                           FLUSHING NEW ATHENS                     RD                    FLUSHING                      OH43977       
+                                AMOS                                    RD                    FLUSHING                      OH43977       
+                                CHINI ORCHARD                           RD                    FLUSHING                      OH43977       
+71640                           CHINI ORCHARD                           RD                    FLUSHING                      OH43977       
+72035                           UNIONTOWN FLUSHING                      RD                    FLUSHING                      OH43977       
+50130                           DOVER RIDGE                             RD                    POWHATAN POINT                OH43942       
+56521                           MOUNT VICTORY                           RD                    JACOBSBURG                    OH43933       
+55840                           TWP 132                                                                                     OH00000       
+1                               ST                                      ST                    POWHATAN POINT                OH43942       
+                                HILL 32                                                       BLAINE                        OH43909       
+                                SCOTT                                   AVE                   BRIDGEPORT                    OH43912       
+55082                           POPLAR                                  AVE                   BRIDGEPORT                    OH43912       
+                                CHURCH                                  ST                    BRIDGEPORT                    OH43912       
+                                WORLEY                                  AVE                   BRIDGEPORT                    OH43912       
+                                WABASH                                  ST                    BRIDGEPORT                    OH43912       
+69912                           WOODS                                   RD                    BRIDGEPORT                    OH43912       
+                                BLAINE CHERMONT                         RD                    BRIDGEPORT                    OH43912       
+                                BLAINE CHERMONT                         RD                    BRIDGEPORT                    OH43912       
+                                COLERAIN                                PIKE                  MARTINS FERRY                 OH43935       
+                                WILDWOOD                                DR                    DILLONVALE                    OH43917       
+53010                           FARMINGTON                              RD                    BRIDGEPORT                    OH43912       
+                                SHARON                                  RD                    BRIDGEPORT                    OH43912       
+                                SUNNY LANE                              DR                    DILLONVALE                    OH43917       
+                                SUNNY LANE                              DR                    DILLONVALE                    OH43917       
+71910                           COLERAIN MOUNT PLEASANT                 RD                    DILLONVALE                    OH43917       
+71010                           COLERAIN                                RD                    BRIDGEPORT                    OH43912       
+                                COLERAIN MT PLEASANT                    RD                                                  OH00000       
+                                PINE HOLLOW                             RD                    BRIDGEPORT                    OH43912       
+                                BEECH SPRING                            RD                    MARTINS FERRY                 OH43935       
+                                AYERS                                   RD                    ST CLAIRSVILLE                OH43950       
+                                AYERS                                   RD                    SAINT CLAIRSVILLE             OH43950       
+                                AYERS                                   RD                    SAINT CLAIRSVILLE             OH43950       
+                                AYERS                                   RD                    ST CLAIRSVILLE                OH43950       
+71075                           AYERS                                   RD                    SAINT CLAIRSVILLE             OH43950       
+71195                           AYERS                                   RD                    SAINT CLAIRSVILLE             OH43950       
+71215                           AYERS                                   RD                    SAINT CLAIRSVILLE             OH43950       
+71452                           AYERS                                   RD                    SAINT CLAIRSVILLE             OH43950       
+71459                           AYERS                                   RD                    SAINT CLAIRSVILLE             OH43950       
+                                                                                                                            OH00000       
+742                             FORSTER                                 ST                    SAINT PAUL                    MN55102       
+1599                            COUNTY ROAD D                               E UNIT      K     MAPLEWOOD                     MN55109       
+1599                            COUNTY ROAD D                               E                 MAPLEWOOD                     MN55109       
+20434                           PRAIRIE MEADOWS                         PL                    STRONGSVILLE                  OH44149       
+6563                          NEBRIGHTON                                ST                    HILLSBORO                     OR97124       
+17395                         SWVINCENT                                 ST                    ALOHA                         OR97007       
+27350                           TILLER                                  DR                    OLMSTED TWP                   OH44138       
+318                             LEXINGTON                               CIR                   BROADVIEW HEIGHTS             OH44147       
+27356                           TILLERMAN                               CT                    OLMSTED TWP                   OH44138       
+710                             MONTICELLO PLACE                        LN                    CLEVELAND                     OH44143       
+1159                          SW160TH                                   AVE                   BEAVERTON                     OR97006       
+528                           NE61ST                                    AVE                   HILLSBORO                     OR97124       
+12260                         SWHANCOCK                                 CT                    TIGARD                        OR97223       
+574                           NE61ST                                    AVE                   HILLSBORO                     OR97124       
+6100                          SWVINWOOD                                 TER                   BEAVERTON                     OR97007       
+1420                            TRAIL WIND                              RD  NE                ALBUQUERQUE                   NM87113       
+3605                            BIG COTTONWOOD                          CT  SE                ALBUQUERQUE                   NM87105       
+9100                            AUTUMN ROSE                             DR  NE                ALBUQUERQUE                   NM87113       
+7319                            HAWTHORN                                AVE NE                ALBUQUERQUE                   NM87113       
+751                           S AZURE                                   DR                    CAMP VERDE                    AZ86322       
+7650                          N SUMMIT                                  PASS                  PRESCOTT VALLEY               AZ86315       
+                                                                                                                            AZ00000       
+7673                          N SUMMIT                                  PASS                  PRESCOTT VALLEY               AZ86315       
+8633                            WESTFIELD PARK                          DR                    OLMSTED TWP                   OH44138       
+8696                            JONATHAN                                DR    #         17B   NORTH ROYALTON                OH44133       
+404                             DUNBAR                                  CIR                   BROADVIEW HEIGHTS             OH44147       
+1875                            ORCHARD                                 LN                    WHITE BEAR LAKE               MN55110       
+445                             WACOUTA                                 ST    UNIT      105   SAINT PAUL                    MN55101       
+238                             8TH                                     ST  E                 SAINT PAUL                    MN55101       
+238                             8TH                                     ST  E                 SAINT PAUL                    MN55101       
+72                              ELITE                                   DR                    TIJERAS                       NM87059       
+400                             CACTUS POINT                            DR  SW                ALBUQUERQUE                   NM87121       
+1431                            TRAIL WIND                              RD  NE                ALBUQUERQUE                   NM87113       
+23                              CHARLES                                 AVE   #         9     SAINT PAUL                    MN55103       
+786                             CEDAR                                   ST    #         6     SAINT PAUL                    MN55103       
+2570                            KNOLLWOOD                               CT  N                 MAPLEWOOD                     MN55109       
+686                             ARMSTRONG                               AVE                   SAINT PAUL                    MN55102       
+488                             NORWICH                                 DR                    BROADVIEW HEIGHTS             OH44147       
+2656                            WOOSTER                                 RD    #         2656  ROCKY RIVER                   OH44116       
+8577                            WESTFIELD PARK                          DR                    OLMSTED TWP                   OH44138       
+1030                            SHELTON                                 CIR                   BROADVIEW HEIGHTS             OH44147       
+8572                            WESTFIELD PARK                          DR                    OLMSTED TWP                   OH44138       
+406                             SAINT ANDREWS                           LN                    BROADVIEW HEIGHTS             OH44147       
+885                             NUGGET                                  CT                    WOODBURN                      OR97071       
+547                           NE61ST                                    PL                    HILLSBORO                     OR97124       
+13560                         SWHATHAWAY                                TER                   TIGARD                        OR97223       
+19933                         SWKENDALL                                 LN                    BEAVERTON                     OR97006       
+12765                         SWBLUE HERON                              PL                    TIGARD                        OR97223       
+2780                          E QUAIL VIEW                              LOOP                  CHINO VALLEY                  AZ86323       
+17291                         SWGALEWOOD                                DR                    SHERWOOD                      OR97140       
+20873                         SWRAVENSWOOD                              ST                    BEAVERTON                     OR97007       
+1941                            FORD                                    PKWY  APT       203   SAINT PAUL                    MN55116       
+1941                            FORD                                    PKWY  APT       301   SAINT PAUL                    MN55116       
+2575                          W QUAIL VIEW                              LOOP                  CHINO VALLEY                  AZ86323       
+14734                         SWBEARD                                   RD    #         201   BEAVERTON                     OR97007       
+13810                         SWSCHOLLS FERRY                           RD    UNIT      105   BEAVERTON                     OR97007       
+5742                          NEDAVENTRY                                ST                    HILLSBORO                     OR97124       
+13700                         SWSCHOLLS FERRY                           RD                    BEAVERTON                     OR97007       
+11815                         SWKOSKI                                   DR                    TIGARD                        OR97223       
+19828                         SWYOCOM                                   LN                    BEAVERTON                     OR97007       
+3223                            IRON FORGE                              PL    APT       112   BOULDER                       CO80301       
+503                           NE61ST                                    PL                    HILLSBORO                     OR97124       
+326                             CROPP                                   RD                    FREDERICKSBURG                VA22406       
+84                              KANE                                    WAY                   STAFFORD                      VA22556       
+172                             SPYGLASS                                LN                    STAFFORD                      VA22556       
+144                             SPYGLASS                                LN                    STAFFORD                      VA22556       
+92                              ALGRACE                                 BLVD                  STAFFORD                      VA22556       
+94                              ALGRACE                                 BLVD                  STAFFORD                      VA22556       
+96                              ALGRACE                                 BLVD                  STAFFORD                      VA22556       
+98                              ALGRACE                                 BLVD                  STAFFORD                      VA22556       
+100                             ALGRACE                                 BLVD                  STAFFORD                      VA22556       
+22                              WEBB                                    CT                    STAFFORD                      VA22556       
+24                              WEBB                                    CT                    STAFFORD                      VA22556       
+26                              WEBB                                    CT                    STAFFORD                      VA22556       
+28                              WEBB                                    CT                    STAFFORD                      VA22556       
+30                              WEBB                                    CT                    STAFFORD                      VA22556       
+29                              WEBB                                    CT                    STAFFORD                      VA22556       
+15                              WEBB                                    CT                    STAFFORD                      VA22556       

@@ -1,0 +1,16 @@
+{
+  "geoCodeApiKey": "AIzaSyB6ZIZKiHOMHuH2AE-XzIaQA1gkWsbaRPU",
+  "mongoDbUrl": "mongodb://test:test123@ds237563.mlab.com:37563/geocode",
+  "addressParserKey": {
+    "HOUSE_NUMBER": 30,
+    "STREET_DIRECTION_PREFIX": 2,
+    "STREET_NAME": 40,
+    "STREET_SUFFIX": 4,
+    "STREET_DIRECTION_SUFFIX": 2,
+    "UNIT_DESCRIPTOR": 10,
+    "UNIT_NUMBER": 6,
+    "CITY": 30,
+    "STATE": 2,
+    "ZIP": 12
+  }
+}
