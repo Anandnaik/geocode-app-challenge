@@ -36,14 +36,14 @@ export default () => {
       .then((res) => {
         const data = res.json.results[0];
         // saves data into database
-        GeocodeModel(data).save((err) => console.log('data saved'));
+        GeocodeModel(data).save();
       }).catch((err) => {
         console.log(err);
       });
     addressFile.pause();
     setTimeout(() => {
       addressFile.resume();
-    }, 500);
+    }, 100);
   }); 
 
   return addressFile;

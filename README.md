@@ -1,22 +1,29 @@
 # geocode-app-challenge
 
-Challenge application which, given a file with addresses, can output adresses which resolve to "non-partial" results using google geocode api and have a location_type of "ROOFTOP".
+Challenge application written in node.js which, given a file with addresses, can output adresses which resolve to "non-partial" results using google geocode api and have a location_type of "ROOFTOP".
 
-# Challenge criteria
+# What this application does:-
+On application start, using "by-line" npm package, the application first reads a .txt file with addresses line-by-line and for each address gets geodata using the google geocode API and stores that data in a mongodb running on mlab.com.
 
-- Load and parse the addresses.tar.gz based on the positional key below.
-- Geocode the addresses by using the Google Geocode API
-- Only output addresses that have a single non-partial results and have a geocode of ROOFTOP quality
+Upon completion of the above process, it starts the node server locally, where using url: `http://localhost:3000/geocode/addresses/rooftop` in the browser, prints geocode json data  for addresses which do not have `partial_match` field and have `ROOFTOP` as their `location_type`.
 
-Positional Key:
-HOUSE NUMBER: 30
-STREET DIRECTION PREFIX: 2
-STREET NAME: 40
-STREET SUFFIX: 4
-STREET DIRECTION SUFFIX: 2
-UNIT DESCRIPTOR: 10
-UNIT NUMBER: 6
-CITY: 30
-STATE: 2
-ZIP: 12
+`*NOTE*`: - I have reduced the number of addresses in the .txt file to 432 from ~3 million, in order to reduce the time it takes to initialize the app :).
+
+# Challenges:- 
+- Dealing with large file with ~3 million addresses. 
+  - This ment that I had to stop the read stream at a certain point in the code using `.destroy()` or `.close()` which do run on a regular read stream successfully without issues, but `by-line` which uses a read stream internally threw errors when attempting to stop it on it's `data` event. This forced me to not attempt to stop the stream using those functions and simply reduce the numeber of addresses in the txt file to ~400 to keep things faster.
+
+# Bad things in app:- 
+- Each time server runs, the app runs the initialization process again, causing the mongo db to be populated with duplicate entries. Could'nt figure out how to make mongodb update the document and create new one if not already exists without attempting to match the `_id` field. Before server restart, I have to clear my db.
+
+- Have to run `npm run start` after file changes. I was initially using nodemon to capture file changes and automatically update the server with latest, however ran into issues with `nodemon + babel` which was taking a long time away from the challenge to resolve.
+
+- Need to run tests. There aren't any yet.
+
+# Other comments:-
+Given more time, I would love to plot geodata on google maps using react/redux.
+
+This was mainly 2 days of learning node and how to use mongodb and 1 day of development. 
+
+
 
