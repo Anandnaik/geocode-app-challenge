@@ -1,6 +1,7 @@
 import initializeApp from './modules/initializeApp';
 import express from 'express';
 import geoCodeController from './controllers/geocode';
+import GeocodeModel from "./mongo/models/geocode";
 
 const app = express();
 
@@ -8,7 +9,7 @@ app.use('/geocodes', geoCodeController);
 
 // reads .txt file line by line and populates mongodb with geocode data 
 // retrivied from google geocode api
-const FileLineReadStream = initializeApp();
+const FileLineReadStream = initializeApp("/addresses.txt", GeocodeModel);
 
 FileLineReadStream.on("end", () => {
   console.log('database populated with gecode data, starting server');
