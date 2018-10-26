@@ -13,6 +13,8 @@ Upon completion of the above process, it starts the node server locally, where u
 `*NOTE*`: - I have reduced the number of addresses in the .txt file to 62 from ~3 million, in order to reduce the time it takes to initialize the app :).
 
 # Challenges:- 
+- In general this was challenging since I am new to node/mongo db. But was def a great learning experience training, researching best practices, and coming up with the right queries with Mongodb. 
+  - Initially I was fetching all the geocode data for `ROOFTOP` location type, and then in the callback for .find() I was trying to .map through all data to only return `formated_address`, but then painfully learned that using dot notation on the data directly somehow returns `undefined`... Took a wile to invistigate and figure out what was going on there, but eventualy found the alternate way of chaining `.distinct` after `.find()`.
 - Dealing with large file with ~3 million addresses. 
   - This ment that I had to stop the read stream at a certain point in the code using `.destroy()` or `.close()` which do run on a regular read stream successfully without issues, but `by-line` which uses a read stream internally threw errors when attempting to stop it on it's `data` event. This forced me to not attempt to stop the stream using those functions and simply reduce the numeber of addresses in the txt file to ~400 to keep things faster.
 
